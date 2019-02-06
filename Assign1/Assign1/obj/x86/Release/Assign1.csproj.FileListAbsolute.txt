@@ -1,0 +1,5 @@
+C:\Users\brian\AppData\Local\Temporary Projects\Assign1\bin\Release\Assign1.exe
+C:\Users\brian\AppData\Local\Temporary Projects\Assign1\bin\Release\Assign1.pdb
+C:\Users\brian\AppData\Local\Temporary Projects\Assign1\obj\x86\Release\Assign1.exe
+C:\Users\brian\AppData\Local\Temporary Projects\Assign1\obj\x86\Release\Assign1.pdb
+C:\Users\brian\Desktop\COIS 1020H\Assign1\Assign1\obj\x86\Release\Assign1.exe
