@@ -1,5 +1,4 @@
 ﻿/* Author: Brianna Drew
-Student ID: 0622446
 Description: This is a program that computes the cost of donuts at the local Rich Horton's store based on the number of donuts being purchased.
 
 Data Dictionary (Variables):
